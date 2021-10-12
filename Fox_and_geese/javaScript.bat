@@ -6,4 +6,4 @@ SET mainPath=%CD%src\cs\vsu\goncharenko
 set logPath=%CD%lib\log
 
 
-java --module-path "%javafxHome%" --upgrade-module-path "%logPath%" --add-modules ALL-MODULE-PATH -jar %CD%Fox_and_geesse.jar
+java --module-path "%javafxHome%" --upgrade-module-path "%logPath%" --add-modules ALL-MODULE-PATH -jar %CD%Fox_and_geese.jar
