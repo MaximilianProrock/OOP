@@ -25,6 +25,6 @@ public abstract class AbstractFeature {
     }
 
     public boolean equals(AbstractFeature feature) {
-        return this.nameOfFeature == feature.getNameOfFeature() && this.getCell() == feature.getCell();
+        return this.nameOfFeature.equals(feature.getNameOfFeature()) && this.cell.equals(feature.getCell());
     }
 }
