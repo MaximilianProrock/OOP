@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="log">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fox_and_geese/lib/log/logback-classic-1.3.0-alpha10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fox_and_geese/lib/log/slf4j-api-2.0.0-alpha4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fox_and_geese/lib/log/logback-core-1.3.0-alpha10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fox_and_geese/lib/log/log4j-over-slf4j-2.0.0-alpha5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fox_and_geese/lib/log/jcl-over-slf4j-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
